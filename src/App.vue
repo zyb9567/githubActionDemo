@@ -3,6 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App" />
   <h1>Yun Bao</h1>
   <h1>Yun Bao</h1>
+  <h1>Yun Bao</h1>
 </template>
 
 <script>
