@@ -4,6 +4,9 @@
   <h1>Yun Bao</h1>
   <h1>Yun Bao</h1>
   <h1>Yun Bao</h1>
+  <h1>我不信终于成功了 哈哈哈！</h1>
+  <h1>坚持就会胜利 耶！</h1>
+  <h1>加油 Yun Bao！</h1>
 </template>
 
 <script>
